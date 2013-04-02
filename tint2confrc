@@ -1,6 +1,6 @@
 #---------------------------------------------
 # TINT2CONF CONFIG FILE
-default_theme = ~/.config/tint2/default.tint2rc
+default_theme = /home/vsv/.config/tint2/default.tint2rc
 cmd_property = /usr/bin/env python /usr/bin/tintwizard.py
 width = 859
 height = 436
