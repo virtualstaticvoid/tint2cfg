@@ -12,3 +12,5 @@ git clone git://gist.github.com/1940668.git .
 ```
 
 Restart `tint2` for configuration to take effect.
+
+You may also want to add tint2 to your list of startup applications.
