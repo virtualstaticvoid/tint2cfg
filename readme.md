@@ -8,7 +8,7 @@ Install `tint2` binaries, and clone the configuration.
 sudo apt-get install tint2
 mkdir -p ~/.config/tint2
 cd ~/.config/tint2
-git clone git://gist.github.com/1940668.git .
+git clone https://github.com/virtualstaticvoid/tint2cfg.git
 ```
 
 Restart `tint2` for configuration to take effect.
