@@ -8,7 +8,7 @@
 # Background 1: Panel, Tooltip
 rounded = 0
 border_width = 0
-background_color = #4f4f2d 80
+background_color = #4f4f2d 0
 border_color = #ffffff 0
 background_color_hover = #000000 80
 border_color_hover = #ffffff 16
@@ -38,7 +38,7 @@ border_color_pressed = #ffffff 68
 #-------------------------------------
 # Panel
 panel_items = T
-panel_size = 100% 32
+panel_size = 100% 38
 panel_margin = 0 0
 panel_padding = 54 0 0
 panel_background_id = 1
